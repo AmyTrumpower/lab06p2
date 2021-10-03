@@ -1,6 +1,6 @@
 ---
 title: "Amy Trumpower's CV"
-author: Amy Trumpower
+author: Amy T. Trumpower
 date: "`r Sys.Date()`"
 output:
   pagedown::html_resume:
