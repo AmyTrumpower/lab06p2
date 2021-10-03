@@ -1,9 +1,9 @@
 ﻿Amy,section,in_resume,title,institution,loc,start,end,description_1,description_2,description_3
 Y,education,TRUE,M.S. Program Evaluation and Data Analyitics,Arizona State University,Online,2021,2022,Anticipated graduation: Fall 2022,NA,NA
-,education,TRUE,B.S. Management Information Systems & BSBA,University of Nebraska,"Lincoln, NE",1994,1998,N/A,NA,NA
-,certification,TRUE,Project Management Professional (PMP),Project Management Institute,NA,2008,Present,Current,NA,NA
-,certification,TRUE,Masters Certificate in Federal Contracting,George Washington University,NA,2011,N/A,N/A,NA,NA
-,certification,TRUE,FAC/PM Senior Level,The Federal Acquisition Institute (FAI),NA,2008,Present,Legal authority to oversee projects and programs deemed high risk. No limit to contract ceiling.,NA,NA
+Y,education,TRUE,B.S. Management Information Systems & BSBA,University of Nebraska,"Lincoln, NE",1994,1998,N/A,NA,NA
+Y,certification,TRUE,Project Management Professional (PMP),Project Management Institute,NA,2008,Present,Current,NA,NA
+Y,certification,TRUE,Masters Certificate in Federal Contracting,George Washington University,NA,2011,N/A,N/A,NA,NA
+Y,certification,TRUE,FAC/PM Senior Level,The Federal Acquisition Institute (FAI),NA,2008,Present,Legal authority to oversee projects and programs deemed high risk. No limit to contract ceiling.,NA,NA
 ,research_positions,FALSE,Human Computer Interaction Researcher,LabInTheWild (Reineke Lab),University of Michigan,2015,2015,Led development and implementation of interactive data visualizations to help users compare themselves to other demographics.,NA,NA
 ,research_positions,TRUE,Graduate Research Assistant,TBILab (Yaomin Xu's Lab),Vanderbilt University,2015,2020,Primarily working with large EHR and Biobank datasets.,Developing network-based methods to investigate and visualize clinically relevant patterns in data.,NA
 ,research_positions,TRUE,Data Science Researcher,Data Science Lab,Johns Hopkins University,2017,2018,Building R Shiny applications in the contexts of wearables and statistics education.,Work primarily done in R Shiny and Javascript (node and d3js).,NA
