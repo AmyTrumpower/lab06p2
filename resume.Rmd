@@ -34,7 +34,7 @@ position_data <- read_csv('positions.csv') %>%
   mutate(
     # Build some custom sections by collapsing others
     section = case_when(
-      section %in% c('research_positions', 'industry_positions') ~ 'positions', 
+      section %in% c('certification', 'industry_positions') ~ 'positions', 
       section %in% c('data_science_writings', 'by_me_press') ~ 'education',
       TRUE ~ section
     )
@@ -114,7 +114,7 @@ Last updated on `r Sys.Date()`.
 Main
 ================================================================================
 
-Nick Strayer {#title}
+Amy T. Trumpower {#title}
 --------------------------------------------------------------------------------
 
 ```{r}
