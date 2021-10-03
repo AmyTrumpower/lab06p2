@@ -1,4 +1,4 @@
-t---
+---
 title: "Amy Trumpower's CV"
 author: Amy T. Trumpower
 date: "`r Sys.Date()`"
